@@ -1,4 +1,4 @@
-# Bank Customer Churn --- Project Conclusion
+# Bank Customer Churn - Project Conclusion
 
 # Conclusion (English)
 
