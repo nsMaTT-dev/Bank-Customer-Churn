@@ -55,15 +55,15 @@ These findings highlight differences between retained and churned customers and 
 
 ### Customer Profile & Churn Analysis
 
-![Customer Profile & Churn Analysis](Images/customer-profile-churn-analysis.png)
+![Customer Profile & Churn Analysis](customer-profile-churn-analysis.png)
 
 ### Demographic Customer Profile and Segment
 
-![Demographic Customer Profile and Segment](Images/demographic-customer-profile-segment.png)
+![Demographic Customer Profile and Segment](demographic-customer-profile-segment.png)
 
 ### Difference Between Customers
 
-![Difference Between Customers](Images/difference-between-customers.png)
+![Difference Between Customers](difference-between-customers.png)
 
 ## Project Conclusion
 
